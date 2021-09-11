@@ -1,0 +1,15 @@
+----> Teclas de Atalhos
+
+* Clonar uma linha 
+      $ ALT + SHIFT + (seta para baixo)
+      
+
+
+----> Extensões
+
+* Live Server       (Cria um Servidor e Atualiza a Página em tempo real quando atualiza o codigo)
+* Auto Rename Tag   (Ajuda a completar a TAG que está faltando)
+* 
+
+
+
